@@ -1,0 +1,15 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.rules.customizations": [
+    
+    ],
+    "reactSnippets.settings.importReactOnTop": true,
+    "emmet.preferences": {
+        
+    },
+    "reactSnippets.settings.prettierEnabled": true
+}
